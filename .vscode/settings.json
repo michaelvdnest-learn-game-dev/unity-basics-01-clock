@@ -51,5 +51,8 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Basic Clock.sln"
+    "dotnet.defaultSolution": "unity-beginner-basic-clock.sln",
+    "cSpell.words": [
+        "Behaviour"
+    ]
 }
